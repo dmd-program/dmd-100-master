@@ -37,7 +37,7 @@ Benjamin Andrew, Assistant Teaching Professor, Penn State College of Arts and Ar
 
 ## Contributing
 
-Anyone can recommend additions or alterations to this course. Please, submit a [pull request on github.com](https://github.com/dmd-program/dmd-100-sp19) or file an issue in the [issue queue](https://github.com/dmd-program/dmd-100-sp19/issues).
+Anyone can recommend additions or alterations to this course. Please, submit a [pull request on github.com](https://github.com/dmd-program/dmd-100-master) or file an issue in the [issue queue](https://github.com/dmd-program/dmd-100-master/issues).
 
 ## License
 

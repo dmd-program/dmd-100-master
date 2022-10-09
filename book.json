@@ -1,7 +1,37 @@
 {
+    "title": "DMD 100: Digital Multimedia Design Foundations",
+    "author": "Michael Collins",
+    "language": "en",
     "plugins": [
         "oerschema",
-        "youtube"
+        "youtube",
+        "codeblock-disable-glossary",
+        "github-edit",
+        "-sharing",
+        "toolbar"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "github-edit": {
+            "repo": "dmd-program/dmd-100-master",
+            "branch": "master"
+        },
+        "toolbar": {
+            "buttons":
+            [
+                {
+                    "label": "Download PDF",
+                    "icon": "fa fa-file-pdf-o",
+                    "url": "https://dmd-program.github.io/dmd-100-master/exports/dmd-100-master.pdf",
+                    "target": "_blank"
+                },
+                {
+                    "label": "Download ebook",
+                    "icon": "fa fa-book",
+                    "url": "https://dmd-program.github.io/dmd-100-master/exports/dmd-100-master.epub",
+                    "target": "_blank"
+                }
+                
+            ]
+        }
+    }
 }

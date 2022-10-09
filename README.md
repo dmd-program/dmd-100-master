@@ -6,7 +6,7 @@ DMD 100 is the first of three spine courses in the Bachelor of Design in Digital
 
 Visit the [DMD Program Hub](http://dmd.psu.edu/) for more details.
 
-## Downloads
+## Downloads 
 
 ### Desktop background art
 

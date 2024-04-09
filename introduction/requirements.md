@@ -2,7 +2,7 @@
 
 ## Course credit 
 
-For degree requirements, see the [bulletin description](https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/digital-multimedia-design-bdes/#programrequirementstext). 
+This course is designated as a "c-required course." From the bulletin description of the progam, "To graduate, a student enrolled in the major must earn a grade of C or better in each course designated by the major as a C-required course, as specified by Senate Policy 82-44." For more information about degree requirements, see the [bulletin description](https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/digital-multimedia-design-bdes/#programrequirementstext). 
 
 ## Hardware
 

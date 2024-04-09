@@ -1,5 +1,9 @@
 # Requirements
 
+## Course credit 
+
+For degree requirements, see the [bulletin description](https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/digital-multimedia-design-bdes/#programrequirementstext) 
+
 ## Hardware
 
 1. Computer: This fully online course will require access to a computer that meets the minimum requirements set by World Campus.

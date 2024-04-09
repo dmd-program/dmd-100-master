@@ -2,7 +2,7 @@
 
 ## Course credit 
 
-For degree requirements, see the [bulletin description](https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/digital-multimedia-design-bdes/#programrequirementstext) 
+For degree requirements, see the [bulletin description](https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/digital-multimedia-design-bdes/#programrequirementstext). 
 
 ## Hardware
 

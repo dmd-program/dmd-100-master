@@ -107,7 +107,9 @@
     * [Chapter 14. Designing Time](reading-reflections/chapter_14_designing_time.md)
   * Project
     * [Open Design Project Introduction](projects/open_design/open_design_project.md)
-    * [Discover: Open Design Research](projects/open_design/discover-open-design-research.md)
+    * [Discover: Toy Design Research](projects/open_design/discover-toy-design-research.md)
+    * [Discover: Resources](projects/open_design/discover_resources.md)
+    * [Discover: Modular Design Research](projects/open_design/discover-modular-design-research.md)
     * [Define: Product pitch](projects/open_design/define-product-pitch.md)
     * [Develop: MVP Prototype](projects/open_design/develop_mvp_prototype.md)
     * [Develop: Instructions](projects/open_design/develop_instructions.md)

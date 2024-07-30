@@ -55,7 +55,7 @@
         * [Define: HMW](projects/ritual/define_hmw.md)
         * [Develop: Brainstorm](projects/ritual/develop-brainstorm.md)
         * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
-        * [InvisionApp tutorials](projects/invisionapp-tutorial.md)
+        * [Figma Tutorial](projects/ritual/prototype-tutorial.md)
         * [Develop: Interactive wireframes](projects/ritual/develop_prototype.md)
         * [Develop: Test and review](projects/ritual/develop_test_and_review.md)
         * [Develop: Iterate wireframes](projects/ritual/develop-iterate-prototype.md)

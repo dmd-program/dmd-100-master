@@ -1,1 +1,15 @@
 /* CSS for website */
+
+video {
+    width: 100%;
+    height: auto;
+}
+
+figure {
+    margin: 4rem 0;
+}
+
+figcaption {
+    opacity: 0.8;
+    text-align: center;
+}

@@ -32,7 +32,7 @@ Create a new “Design file” in Figma and select the **Frame tool** (`F`). In 
 
 <figure>
 <video autoplay muted loop playsinline disableRemotePlayback preload="none" loading="lazy">
-  <source src="/assets/videos/1_add-frame.webm" type="video/webm">
+  <source src="../../assets/videos/1_add-frame.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 <figcaption>Adding a Frame</figcaption>
@@ -42,7 +42,7 @@ Create a new “Design file” in Figma and select the **Frame tool** (`F`). In 
 
 <figure>
 <video autoplay muted loop playsinline disableRemotePlayback preload="none" loading="lazy">
-  <source src="/assets/videos/2_rename.webm" type="video/webm">
+  <source src="../../assets/videos/2_rename.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 <figcaption>Renaming a Frame in the Canvas and Layers panel.</figcaption>
@@ -56,7 +56,7 @@ At the top of that panel, select the button for “Image” to upload one of you
 
 <figure>
 <video autoplay muted loop playsinline disableRemotePlayback preload="none" loading="lazy">
-  <source src="/assets/videos/3_add-image.webm" type="video/webm">
+  <source src="../../assets/videos/3_add-image.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 <figcaption>Adding an image as a fill</figcaption>
@@ -70,7 +70,7 @@ Depending on the [aspect ratio](https://www.uxpin.com/studio/blog/aspect-ratio/)
 
 <figure>
 <video autoplay muted loop playsinline disableRemotePlayback preload="none" loading="lazy">
-  <source src="/assets/videos/4_resize.webm" type="video/webm">
+  <source src="../../assets/videos/4_resize.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 <figcaption>Cropping images</figcaption>
@@ -86,7 +86,7 @@ To duplicate a Frame, hold `Alt` \(\Mac) or `Opt` \(Windows\), click on a Frame 
 
 <figure>
 <video autoplay muted loop playsinline disableRemotePlayback preload="none" loading="lazy">
-  <source src="/assets/videos/5_dupe-frame.webm" type="video/webm">
+  <source src="../../assets/videos/5_dupe-frame.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 <figcaption>Duplicating a Frame.</figcaption>
@@ -100,7 +100,7 @@ Alternatively, you can drag all your images into Figma at once, and then wrap th
 
 <figure>
 <video autoplay muted loop playsinline disableRemotePlayback preload="none" loading="lazy">
-  <source src="/assets/videos/6_batch.webm" type="video/webm">
+  <source src="../../assets/videos/6_batch.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 <figcaption>Importing multiple images at once.</figcaption>
@@ -122,7 +122,7 @@ Click the big ▶️ Play button in the upper-right corner to launch a new tab 
 
 <figure>
 <video autoplay muted loop playsinline disableRemotePlayback preload="none" loading="lazy">
-  <source src="/assets/videos/7_test.webm" type="video/webm">
+  <source src="../../assets/videos/7_test.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 <figcaption>Testing out Presentation View.</figcaption>
@@ -140,7 +140,7 @@ With the Frame tool (F) selected, click-and-drag over a button or UI element in 
 
 <figure>
 <video autoplay muted loop playsinline disableRemotePlayback preload="none" loading="lazy">
-  <source src="/assets/videos/8_inner-frame.webm" type="video/webm">
+  <source src="../../assets/videos/8_inner-frame.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 <figcaption>Creating an "inner Frame" to act as a clickable target.</figcaption>
@@ -161,7 +161,7 @@ If you hover your mouse over this edges of this new “overlay” Frame, you’l
 
 <figure>
 <video autoplay muted loop playsinline disableRemotePlayback preload="none" loading="lazy">
-  <source src="/assets/videos/9_noodle.webm" type="video/webm">
+  <source src="../../assets/videos/9_noodle.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 <figcaption>Adding an interaction.</figcaption>
@@ -174,7 +174,7 @@ Now hit that Play button and view your app in the Presentation tab! Test your in
 
 <figure>
 <video autoplay muted loop playsinline disableRemotePlayback preload="none" loading="lazy">
-  <source src="/assets/videos/10_present.webm" type="video/webm">
+  <source src="../../assets/videos/10_present.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 <figcaption>Testing interactions in Presentation view.</figcaption>
@@ -197,7 +197,7 @@ Remember this is a wireframe! — Not a fully designed interface. Do not spend e
 
 <figure>
 <video autoplay muted loop playsinline disableRemotePlayback preload="none" loading="lazy">
-  <source src="/assets/videos/11_digital-text.webm" type="video/webm">
+  <source src="../../assets/videos/11_digital-text.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 <figcaption>Adding digital text and interactions.</figcaption>
@@ -211,7 +211,7 @@ The best way to create a typical “button” is by creating a Frame and placing
 
 <figure>
 <video autoplay muted loop playsinline disableRemotePlayback preload="none" loading="lazy">
-  <source src="/assets/videos/12_auto-layout.webm" type="video/webm">
+  <source src="../../assets/videos/12_auto-layout.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 <figcaption>Creating a button with auto layout</a></figcaption>

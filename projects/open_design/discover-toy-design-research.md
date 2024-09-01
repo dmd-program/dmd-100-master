@@ -36,7 +36,7 @@ Include between 6 to 20 slides. Pease include images where possible.
 1. Conduct desktop and field research of toy kits and models. Investigate websites that sell toys and visit physical toy and hobby stores.
 2. Produce the presentation according to the presentation requirements and export it to PDF format.
 
-## Post work to the Studio
+## Post work
 
 Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
 

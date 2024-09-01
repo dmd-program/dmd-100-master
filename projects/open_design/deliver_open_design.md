@@ -18,7 +18,7 @@ You will now take photos of the toy assemblies and make any needed adjustments t
 1. Add the knolling-style image to the title page of the document. If used as a background, ensure all text is still legible.
 2. Add at least one of the other images to the end of the instructions to show the final result.
 
-## Post work to the Studio
+## Post work
 
 1. Submit a total of four to nine (4-9) `JPG` images:
     1. Submit one (1) knolling style `JPG` image showing the various parts you have assembled for the toy kit.

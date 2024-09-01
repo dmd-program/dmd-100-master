@@ -71,8 +71,7 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
 
 ![Paper download link](/assets/paper-download-link.png)
 
-## Post work to the Studio
-
+## Post work
 Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 
 1. Follow **download and export** instructions to download the brainstorm document in Word (docx) format. 

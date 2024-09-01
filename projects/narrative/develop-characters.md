@@ -15,7 +15,7 @@
 2. Fill out a [Characterization Sheet](https://github.com/dmd-program/dmd-100-sp18/raw/master/assets/characterization.pdf) for each character in your story.
 3. Scan or photograph your worksheets
 
-## Post work to the Studio
+## Post work
 
 Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
 

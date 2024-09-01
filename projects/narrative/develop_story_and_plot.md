@@ -46,7 +46,7 @@ Produce a document with the following items:
 2. Write the document according the document guidelines.
 3. Double-check that you've met all other listed requirements.
 
-## Post work to the Studio
+## Post work
 
 Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
 

@@ -18,7 +18,7 @@ Carefully observe someone attempting to use the kit. Take notes of what you noti
   - What could be better?
   - What were you feeling while following the instructions?
 
-## Post work to the Studio
+## Post work
 
 Use the indicated file format. You must obtain prior approval to deviate from these upload requirements.
 

@@ -39,7 +39,7 @@ Please allow at least 60-75 minutes to complete this activity.
 
 ![narrative word pairs](/assets/narrative-discover-wordpairs.jpg)
 
-## Post work to the Studio
+## Post work
 
 Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
 

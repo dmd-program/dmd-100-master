@@ -12,7 +12,7 @@ Now that your prototype is done, it is time to participate in feedback. You will
    3. What affordances does that app provide for a typical user.
 2. **Read the feedback you have been given.** To plan a course of action, you can categorize what was said in four categories: compliment, advice, criticism, and suggestion. Based on which category the feedback lands, you can analyze how to make decisions to improve your work.
 
-## Post work to the Studio
+## Post work
 
 Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 

@@ -40,7 +40,7 @@ This is an optional step, but it's a great skill to learn if you're interested i
 
 
 
-## Post work to the Studio
+## Post work
 
 Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
 

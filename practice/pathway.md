@@ -49,7 +49,7 @@ Now that you have completed the questionnaire, use your answers to write a learn
 3. **Pathway Schedule:**
    * Include a dated list of the things you will need to acquire or accomplish. Example: _"December 2018: find a list of animation studios to apply to, February 2019: Apply for 3D animation internships"_
 
-## Post work to the Studio
+## Post work
 
 1. Upload the your completed questionnaire from **Part 1** as `questionnaire.doc` to the Canvas assignment:
 2. Upload the `learning-strategy.doc` from **Part 2** to the Canvas assignment:

@@ -9,7 +9,7 @@ In this activity, you will be gathering information about the raw materials avai
 1. **Take Stock:** Photograph materials and objects from around your household or that you discard, or commonly acquire for free with other things that you buy. Of these materials, what might be useful?
 2. **Local materials:** Go to a supermarket, hardware, craft supply store, or any other store that may have raw materials you can use. Photograph and document potential materials, objects, fasteners. Pay attention to the inexpensive or bulk products.
 
-## Post work to the Studio
+## Post work
 
 Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
 

@@ -44,7 +44,7 @@ There are many descriptions available of what a ritual is and how it functions. 
 
 ![Storyboard example image](/assets/ritual-storyboard.jpg)
 
-## Post work to the Studio
+## Post work
 
 Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 

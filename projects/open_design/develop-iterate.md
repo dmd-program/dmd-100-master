@@ -8,9 +8,9 @@ Review your notes from the user test and make adjustments, clarifications, and r
 
 1. Make changes and improvements to your kit and instructions based on your feedback in the user test.
 
-## Post work to the Studio (2 files)
+## Post work
 
 Use the indicated file format. You must obtain prior approval to deviate from these upload requirements.
 
-1. Upload a `changelog.doc`.
+1. Upload a `changelog.doc` file.
 2. Upload a `yourname-instructions-2.pdf` document. This should be a new and revised PDF document. Unrevised documents will not be graded.

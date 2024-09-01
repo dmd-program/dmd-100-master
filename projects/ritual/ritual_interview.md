@@ -75,7 +75,7 @@ Laddering is a technique developed in the 1960s to help clinical psychologists u
 2. Ask questions to find key issue\(s\)
 3. Record the interviewee's responses in your journal
 
-## Post work to the Studio
+## Post work
 
 Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 

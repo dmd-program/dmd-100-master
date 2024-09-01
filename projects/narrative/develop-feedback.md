@@ -44,7 +44,7 @@ For this task, we will use Feldman’s Model for criticism of creative works. Pl
 * If the person's submitted file is not a `.html` or `.zip` file, they may have submitted the project incorrectly and you should notify them or explain the issue to your instructor. 
 * If you have trouble unzipping the story file, please use a more powerful unzipping tool. See [this tool for Mac](https://theunarchiver.com/) and [this tool for Windows](https://www.7-zip.org/).
 
-## Post work to the Studio
+## Post work
 
 Use the indicated file format. You must obtain prior approval to deviate from these upload requirements.
 

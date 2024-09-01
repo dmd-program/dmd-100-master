@@ -23,6 +23,6 @@ You will now start prototyping with your materials to try to approximate the toy
 5. Once you are happy with what you came up with, start to make variations.
 6. You should end up with a kit of parts that you can describe to another person how to make and assemble. Take photos of individual parts, templates, connectors, fasteners, and structural elements.
 
-## Post work to the Studio
+## Post work
 
 1. Upload photos of the prototype(s).

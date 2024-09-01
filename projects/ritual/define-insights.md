@@ -23,7 +23,7 @@ Now that you've finished conducting the interview, it's time to identify some th
     - **Desired End State:** "I wish there was a way to help Mike plan and prepare trips." 
 4. Document your themes and insights with a photograph or scan.
 
-## Post work to the Studio
+## Post work
 
 Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 

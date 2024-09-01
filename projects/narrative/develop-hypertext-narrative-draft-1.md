@@ -25,7 +25,7 @@ Twine Tutorial: [Getting started with Twine](/topics/twine-tutorial-getting-star
 
 
 
-## Post work to the Studio
+## Post work
 
 Submit a `.html` file by following the instructions above. You must obtain prior approval to deviate from these upload requirements.
 

@@ -2,7 +2,7 @@
 
 # Daily Design Journal
 
-Through drawing, you will visually document and notate at least 10 objects using your journal. Keeping a sketchbook or journal with you is a useful habit for tracking observations and ideas. In this activity, we will use this practice to make observations about objects that are close to us every day.
+Through drawing, you will visually document and notate at least 14 objects using your journal. Keeping a sketchbook or journal with you is a useful habit for tracking observations and ideas. In this activity, we will use this practice to make observations about objects that are close to us every day.
 
 ## Journal sketching requirements
 
@@ -21,6 +21,6 @@ Through drawing, you will visually document and notate at least 10 objects using
 
 ## Instructions
 
-1. Visually document 10 object sketches that are typical for you to interact with in your daily life. You can use pen, pencil, markers, or any combination you'd like. 
+1. Visually document 14 object sketches that are typical for you to interact with in your daily life. You can use pen, pencil, markers, or any combination you'd like. 
 2. Write contextual notes about the objects' materials, dimensions, and functionality. Focus on the design (shape, form, etc.) of the object and how that relates to the way you interact with it. You may also include information about what the purpose is or where you acquired it. Be thorough and specific, as if you're an archaeologist examining an artifact. 
 3. Please follow the journal sketching requirements.
